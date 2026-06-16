@@ -22,3 +22,8 @@ A equipa utilizou o **GitHub Projects (Kanban)** para gerir o fluxo de trabalho.
 
 * **Dificuldade 3:** Organização dos diagramas no GitHub sem perder qualidade.
   * **Solução:** Optámos por desenhar os diagramas em ferramentas externas (como Draw.io/Lucidchart), exportar as imagens em alta resolução (PNG) e criar ficheiros `README.md` dentro das pastas (`uml/`, `bpmn/`, `c4/`) para exibir as imagens de forma documentada.
+
+## 3. Gestão Ágil (Kanban)
+Abaixo está o registo do nosso quadro Kanban utilizado para gerir as tarefas da equipa durante a Sprint:
+
+![Quadro Kanban](kanban.jpg)
